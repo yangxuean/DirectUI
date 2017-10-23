@@ -1,0 +1,4 @@
+DirectUI呈现界面的核心类库是CDialogBuilder/CPaintManagerUI/CRenderEngine。
+其中，CDialogBuilder负责遍历xml节点，获取界面元素并构建响应的类；CPaintManagerUI负责消息分发，是整个DirectUI工作的基础；
+而CRenderEngine则负责具体调用GDI API完成具体的界面渲染工作。
+http://blog.csdn.net/mail_cm/article/details/7793461

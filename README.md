@@ -1,2 +1,2 @@
 # DirectUI
-learn the DUI
+learn the DUI In spare time， hi， day day up！
